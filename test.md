@@ -2,5 +2,5 @@ test
 
 ```mermaid
 flowchart LR
-    a ---> b  
+    a ---> c 
 ```
