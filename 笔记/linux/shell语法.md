@@ -32,6 +32,9 @@
   - [Shell printf 命令](#shell-printf-命令)
   - [Shell test 命令](#shell-test-命令)
   - [流程控制](#流程控制)
+    - [条件控制](#条件控制)
+    - [循环控制](#循环控制)
+      - [跳出循环](#跳出循环)
   - [Shell 函数](#shell-函数)
   - [Shell 输入/输出重定向](#shell-输入输出重定向)
   - [Shell 文件包含](#shell-文件包含)
@@ -323,9 +326,117 @@ printf "%-10s %-8s %-4.2f\n" 姓名 性别 体重 #举例
 
 ## 流程控制
 
+### 条件控制
 
+- if
+
+  ```shell
+  # 语法
+  if condition
+  then
+      command1
+      ....
+      commandn
+  fi
+
+  #终端格式
+  if[condition]; then command....;fi
+  ```
+
+- if eles
+
+  ```shell
+  if conditon
+  then
+    command1
+    command2
+    ....
+  else
+    command1
+   .....
+  fi
+  ```
+
+- if else-if else
+
+  ```shell
+  if conditon1
+  then
+    command1
+  elif condition2
+  then
+    command2
+  else
+    commandn
+  fi
+  ```
+
+  - case...esac
+
+  ```shell
+  case 值 in
+  模式1)
+    command1
+    command2
+    ...
+    commandn
+    ;;
+  模式2)
+    command1
+    command2
+    ....
+    commandn
+    ;;
+    esac
+  ```
+
+### 循环控制
+
+- for 循环
+
+  ```shell
+  for var in item1,item2....
+  do
+    command1
+    command2
+    ....
+  done
+
+  for var in item1,item2,....;do command1;command2;....commandn done;
+  ```
+
+- while 循环
+
+  ```shell
+  while condition
+  do
+    command
+  done
+  ```
+
+- until 循环
+
+  ```shell
+  until condition
+  do
+    command
+  done
+  ```
+
+#### 跳出循环
+
+- break
+- continue
 
 ## Shell 函数
+
+```shell
+[funciotn] funname[()]
+{
+  function_body;
+  [return int;]
+}
+```
 
 ## Shell 输入/输出重定向
 
