@@ -69,3 +69,4 @@ flowchart TD
     vt5-1,vt5-2 -->|ORDER BY阶段,排序| vt6
     vt6 -->|LIMIT阶段| vt7
 ```
+$$f(x)=\int_0^xxd(x)$$
