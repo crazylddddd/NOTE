@@ -54,16 +54,16 @@
     "SELECT": {
       "SELECT": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1663475480828
+          "count": 9,
+          "lastUpdated": 1663571289873
         }
       }
     },
     "column_name": {
       "column_name": {
         "currentFile": {
-          "count": 7,
-          "lastUpdated": 1663475546325
+          "count": 14,
+          "lastUpdated": 1663571295421
         }
       }
     },
@@ -86,24 +86,24 @@
     "table_name": {
       "table_name": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1663475497374
+          "count": 6,
+          "lastUpdated": 1663571270891
         }
       }
     },
     "WHERE": {
       "WHERE": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1663475501822
+          "count": 4,
+          "lastUpdated": 1663570614439
         }
       }
     },
     "condition": {
       "condition": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663473380327
+          "count": 4,
+          "lastUpdated": 1663571307558
         }
       }
     },
@@ -136,6 +136,46 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1663475526745
+        }
+      }
+    },
+    "Exists": {
+      "Exists": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1663570583599
+        }
+      }
+    },
+    "EXISTS": {
+      "EXISTS": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663570587435
+        }
+      }
+    },
+    "Allow": {
+      "Allow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663570775498
+        }
+      }
+    },
+    "sql的基本操作": {
+      "sql的基本操作": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663570864156
+        }
+      }
+    },
+    "operator": {
+      "operator": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1663571280105
         }
       }
     }

@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVA/jdbc_md/JDBC.md",
+            "file": "sql/sql的基本操作.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -41,9 +42,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/jdbc_md/JDBC.md",
+                "file": "sql/sql的基本操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/jdbc_md/JDBC.md",
+                "file": "sql/sql的基本操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,19 +119,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/jdbc_md/JDBC.md"
+                "file": "sql/sql的基本操作.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 294.44464111328125
   },
-  "active": "00a9553c391216ef",
+  "active": "c3cdf7029ddbe33a",
   "lastOpenFiles": [
+    "JAVA/jdbc_md/JDBC.md",
     "sql/sql的基本操作.md",
     "sql/Drawing 2022-09-18 12.54.15.excalidraw.md",
     "sql/Untitled Diagram.svg.md",
@@ -139,7 +141,6 @@
     "test.md",
     "sql/test.md",
     "sql.md",
-    "JAVA/jdbc_md/JDBC.md",
     "JAVA/jdbc_md/assets/JDBC.assets/1555575721407.png"
   ]
 }
