@@ -404,3 +404,10 @@ tag: #sql/流程控制/CASE #sql/查询/数据/CASE
 - The `CASE` statement goes through conditions and returns a value when the first condition is met (like an if-then-else statement). So, once a condition is true, it will stop reading and return the result. If no conditions are true, it returns the value in the ELSE clause.
   - If there is no ELSE part and no conditions are true, it returns NULL.
 
+## Comments
+
+tag: #sql/Comments
+
+- Comments are used to explain sections of SQL statements, or to prevent execution of SQL statements
+- Single line comments start with --.
+  - Any text between -- and the end of the line will be ignored (will not be executed).

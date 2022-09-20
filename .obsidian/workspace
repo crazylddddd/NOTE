@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sql/sql的基本操作.md",
+            "file": "sql/sql数据库的基本操作.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sql/sql的基本操作.md",
+                "file": "sql/sql数据库的基本操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sql/sql的基本操作.md",
+                "file": "sql/sql数据库的基本操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sql/sql的基本操作.md"
+                "file": "sql/sql数据库的基本操作.md"
               }
             }
           }
@@ -130,17 +130,17 @@
     "direction": "horizontal",
     "width": 294.44464111328125
   },
-  "active": "c3cdf7029ddbe33a",
+  "active": "687a02be8c36b0bc",
   "lastOpenFiles": [
-    "JAVA/jdbc_md/JDBC.md",
+    "2022-09-20.md",
+    "sql/sql数据库的基本操作.md",
     "sql/sql的基本操作.md",
+    "JAVA/jdbc_md/JDBC.md",
     "sql/Drawing 2022-09-18 12.54.15.excalidraw.md",
     "sql/Untitled Diagram.svg.md",
     "sql/Untitled Diagram.svg",
     "sql/assset/INNER_JOIN.png",
     "test.md",
-    "sql/test.md",
-    "sql.md",
-    "JAVA/jdbc_md/assets/JDBC.assets/1555575721407.png"
+    "sql/test.md"
   ]
 }
